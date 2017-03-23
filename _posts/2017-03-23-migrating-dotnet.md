@@ -9,4 +9,4 @@ dotnet 4.6.1</p>
 
 <p><ul>Tools used for migration:
 <li>Visual Studio 2015</li>
-<li>Target Framework Migrator[VS Extension]</li></ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=PavelSamokha.TargetFrameworkMigrator">Target Framework Migrator[VS Extension]</a></li></ul>
